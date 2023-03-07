@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/findbook-google-book-api/static/css/main.36a58675.css",
+    "main.js": "/findbook-google-book-api/static/js/main.bf81ed65.js",
+    "static/media/bg1.png": "/findbook-google-book-api/static/media/bg1.7b6b7467cd83f4871538.png",
+    "index.html": "/findbook-google-book-api/index.html",
+    "main.36a58675.css.map": "/findbook-google-book-api/static/css/main.36a58675.css.map",
+    "main.bf81ed65.js.map": "/findbook-google-book-api/static/js/main.bf81ed65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36a58675.css",
+    "static/js/main.bf81ed65.js"
+  ]
+}
